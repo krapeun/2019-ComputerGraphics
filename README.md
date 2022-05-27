@@ -5,5 +5,5 @@
 * Homework
 
 * Mini Project Hamburger Lego Block Game
-* https://www.youtube.com/watch?v=5RoYUoHPRJ4&t=593s
+* [Mini Project Youtube](https://www.youtube.com/watch?v=5RoYUoHPRJ4&t=593s)
 
